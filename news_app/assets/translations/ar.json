@@ -1,0 +1,145 @@
+{
+    
+    "home": "الصفحة الرئيسية",
+    "videos": "أشرطة فيديو",
+    "categories" : "التصنيفات",
+    "profile": "الملف الشخصي",
+    
+
+    "welcome to" : "مرحبا بك في",
+    "sign in to continue": "تسجيل الدخول للمتابعة",
+    "skip": "تخطى",
+    "done": "منجز",
+
+    "intro-title1" : "اكتشف آخر الأخبار",
+    "intro-title2" : "احصل على إشعار أولاً",
+    "intro-title3" : "حفظ المقالات",
+    "intro-description1" : "اكتشف آخر الأخبار والأحداث التي تحدث في العالم في دقائق ...",
+    "intro-description2" : "اشترك واحصل على اشعارات بجميع مقالاتنا وشاركها مع اصدقائك ...",
+    "intro-description3" : "قم بوضع إشارة مرجعية ، وإبداء الإعجاب والتعليق على مقالاتك المفضلة ومشاركتها على وسائل التواصل الاجتماعي ...",
+    "get started" : "البدء",
+    "don't have social accounts?" : "ليس لديك حسابات اجتماعية؟",
+    "continue with email >>" : "تواصل مع البريد الإلكتروني >>",
+
+    "sign up": "سجل",
+    "sign in": "تسجيل الدخول",
+    "follow the simple steps": "اتبع الخطوات البسيطة",
+    "name": "Name",
+    "already have an account?": "هل لديك حساب؟",
+    "forgot password?": "هل نسيت كلمة المرور؟",
+    "reset your password": "اعد ضبط كلمه السر",
+    "submit": "إرسال",
+    "sign in successful!" : "تم تسجيل الدخول بنجاح!",
+    "sign up successful!": "الاشتراك بنجاح!",
+    "don't have an account?" : "ليس لديك حساب؟",
+
+
+
+    "search news" : "بحث في الأخبار",
+    "popular news" : "أخبار شعبية",
+    "recent news" : "أخبار حديثة",
+    "explore": "يكتشف",
+    "featured": "متميز",
+    "view all" : "مشاهدة الكل",
+
+    "video articles" : "مقالات الفيديو",
+    "most recent": "الأحدث",
+    "most popular": "الأكثر شهرة",
+    "no categories found": "لم يتم العثور على فئات", 
+
+    
+
+
+
+    "people like this" : "الناس يحبون هذا",
+    "you might also like" : "قد يعجبك ايضا",
+    "no articles found" : "لم يتم العثور على مقالات",
+
+
+    
+    "no internet" : "لا يوجد اتصال بالإنترنت!",
+    "no comments found" : "لا توجد تعليقات",
+    "be the first to comment" : "كن أول من يعلق",
+
+
+    "recent searchs" : "عمليات البحث الأخيرة",
+    "search-description" :  "لم تبحث عن أي عناصر حتى الآن.\n جرب الآن - سنساعدك!",
+    "we have found" : "لقد وجدنا",
+    "try again" : "حاول مرة أخري!",
+
+
+
+
+    "bookmarks" : "إشارات مرجعية",
+    "sign in first" : "تسجيل الدخول أولا",
+    "sign in to save your favourite articles here" : "قم بتسجيل الدخول لحفظ مقالاتك المفضلة هنا",
+    "save your favourite articles here" : "احفظ مقالاتك المفضلة هنا",
+
+
+
+
+    "check your internet connection!" : "تحقق من اتصالك بالإنترنت!",
+    "something is wrong. please try again." : "هناك شئ غير صحيح. حاول مرة اخرى.",
+    "error fb login" : "خطأ في تسجيل الدخول إلى الفيسبوك! يرجى المحاولة مع جوجل",
+
+
+    
+    "cancel" : "إلغاء",
+    "no sign in title" : "قم بتسجيل الدخول أولاً للوصول إلى هذه الميزة",
+    "no sign in subtitle" : "لم تسجل الدخول بعد. الرجاء تسجيل الدخول لفتح هذه الميزة",
+
+    
+    
+    "comments" : "تعليقات",
+    "write a comment" : "أكتب تعليقا", 
+
+
+    
+    "no content" : "لم يتم العثور على محتويات",
+    "flag this comment" : "علم هذا التعليق",
+    "unflag this comment" : "قم بإلغاء التأشير على هذا التعليق",
+    "report" : "نقل",
+    "delete" : "حذف",
+    "report-info" : "تم إرسال تقريرك بنجاح إلى المسؤولين",
+    "report-info1" : "شكرا لتقريرك. سوف نقوم بالرد خلال 24 ساعة.",
+    "report-guest" : "مطلوب تسجيل الدخول!",
+    "report-guest1" : "يجب عليك تسجيل الدخول للإبلاغ عن أي تعليقات",
+    "comment flagged" : "تم تمييز هذا التعليق!",
+
+
+    "notifications" : "تم تمييز هذا التعليق!",
+    "notification details" : "تفاصيل الإخطار",
+    "custom notifications": "إخطارات مخصصة",
+    "news notifications": "إخطارات الأخبار",
+    "no notification": "لم يتم العثور على إخطارات",
+
+
+    
+    "general settings" : "الاعدادات العامة",
+    "dark mode" : "الوضع المظلم",
+    "login" : "تسجيل الدخول",
+    "get notifications" : "الحصول على الإشعارات",
+    "contact us" : "اتصل بنا",
+    "rate this app" : "قيم هذا التطبيق",
+    "licence" : "رخصة",
+    "privacy policy" : "سياسة خاصة",
+    "about us" : "معلومات عنا",
+    "logout" : "تسجيل خروج",
+    "edit profile" : "تعديل الملف الشخصي",
+    "update profile" : "تحديث الملف",
+    "updated successfully" : "تم التحديث بنجاح",
+    "enter new name" : "أدخل الاسم الجديد",
+
+    "logout title" : "هل تريد حقًا تسجيل الخروج من التطبيق؟",
+    "yes" : "نعم",
+    "no" : "لا",
+
+    "language" : "لغة",
+    "select language" : "اختار اللغة",
+
+    "buy now" : "شراء هذا التطبيق",
+    "buy now subtitle" : "شراء كود المصدر الكامل هنا"
+
+
+
+}

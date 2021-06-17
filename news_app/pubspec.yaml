@@ -1,0 +1,126 @@
+name: news_app
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 3.0.4+10
+
+environment:
+  sdk: ">=2.10.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+    
+  animated_bottom_navigation_bar: ^0.2.1
+  apple_sign_in: ^0.1.0
+  badges: ^1.1.1
+  cached_network_image: ^2.3.3
+  cloud_firestore: ^0.14.3
+  connectivity: ^2.0.2
+  cupertino_icons: ^1.0.0
+  dots_indicator: ^1.0.0
+  easy_localization: ^2.3.3
+  firebase_auth: ^0.18.3
+  firebase_core: ^0.5.2
+  firebase_messaging: ^7.0.3
+  firebase_storage: ^5.0.1
+  flutter_custom_tabs: ^0.6.0
+  flutter_facebook_login: ^3.0.0
+  flutter_html: ^1.2.0
+  flutter_icons: ^1.1.0
+  flutter_widget_from_html: ^0.5.1+5
+  google_fonts: ^1.1.1
+  google_sign_in: ^4.5.6
+  html: ^0.14.0+4
+  html_unescape: ^1.0.1+3
+  image_picker: ^0.6.7+14
+  intl: ^0.16.0
+  introduction_screen: ^1.0.9
+  launch_review: ^2.0.0
+  line_icons: ^0.2.0
+  lottie: ^0.6.0
+  md2_tab_indicator: ^1.0.2
+  package_info: ^0.4.3+2
+  path_provider: ^1.6.24
+  provider: ^4.3.2+2
+  share: ^0.6.5+3
+  shared_preferences: ^0.5.12+4
+  skeleton_text: ^2.0.2
+  toast: ^0.1.5
+  url_launcher: ^5.7.10
+  youtube_player_flutter: ^7.0.0+7
+  animated_progress_button: ^1.0.2+1
+  rounded_loading_button: ^1.0.15
+  firebase_analytics: ^6.2.0
+  # firebase_admob: ^0.10.2
+  # facebook_audience_network: ^0.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: "^0.8.0"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+
+
+  
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/news1.png
+    - assets/news2.png
+    - assets/news3.png
+    - assets/news4.png
+    - assets/news5.png
+    - assets/news6.png
+    - assets/news7.png
+    - assets/splash.png
+    - assets/done.json
+    - assets/translations/
+
+  fonts:
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 800
+
+    - family: Open Sans
+      fonts:
+        - asset: assets/fonts/OpenSans-Light.ttf
+          weight: 400
+        - asset: assets/fonts/OpenSans-Regular.ttf
+          weight: 500
+
+    - family: Manrope
+      fonts:
+        # - asset: assets/fonts/Manrope-Light.ttf
+        #   weight: 300
+        - asset: assets/fonts/Manrope-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Manrope-SemiBold.ttf
+          weight: 500
+        - asset: assets/fonts/Manrope-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/Manrope-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Manrope-ExtraBold.ttf
+          weight: 900

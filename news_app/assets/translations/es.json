@@ -1,0 +1,145 @@
+{
+    
+    "home": "Hogar",
+    "videos": "Videos",
+    "categories" : "Categorías",
+    "profile": "Perfil",
+    
+
+    "welcome to" : "Bienvenida a",
+    "sign in to continue": "Iniciar sesión para continuar",
+    "skip": "Omitir",
+    "done": "Hecho",
+
+    "intro-title1" : "Explore las últimas noticias",
+    "intro-title2" : "Ser notificada primero",
+    "intro-title3" : "Guardar artículos",
+    "intro-description1" : "Explore las últimas noticias y eventos que suceden en el mundo en minutos ...",
+    "intro-description2" : "Suscríbete y recibe notificaciones de todos nuestros artículos y compártelo con tus amigos ...",
+    "intro-description3" : "Marque, me gusta y comente sus artículos favoritos y compártalos en las redes sociales ...",
+    "get started" : "Empezar",
+    "don't have social accounts?" : "¿No tienes cuentas sociales?",
+    "continue with email >>" : "Continuar con correo electrónico >>",
+
+    "sign up": "Regístrate",
+    "sign in": "Registrarse",
+    "follow the simple steps": "Siga los sencillos pasosv",
+    "name": "Name",
+    "already have an account?": "¿Ya tienes una cuenta?",
+    "forgot password?": "¿Se te olvidó tu contraseña?",
+    "reset your password": "Restablecer su contraseña",
+    "submit": "Enviar",
+    "sign in successful!" : "¡Iniciar sesión con éxito!",
+    "sign up successful!": "¡Regístrese exitosamente!",
+    "don't have an account?" : "¿No tienes una cuenta?",
+
+
+
+    "search news" : "Buscar noticias",
+    "popular news" : "Noticias populares",
+    "recent news" : "Noticias recientes",
+    "explore": "Explorar",
+    "featured": "Destacadas",
+    "view all" : "ver todo",
+
+    "video articles" : "Artículos de video",
+    "most recent": "Más reciente",
+    "most popular": "Más popular",
+    "no categories found": "No se encontraron categorías", 
+
+    
+
+
+
+    "people like this" : "Gente como esta",
+    "you might also like" : "También podría gustarte",
+    "no articles found" : "No se encontraron artículos",
+
+
+    
+    "no internet" : "¡Sin conexión a Internet!",
+    "no comments found" : "No se encontraron comentarios",
+    "be the first to comment" : "Se la primera en comentar",
+
+
+    "recent searchs" : "Búsquedas recientes",
+    "search-description" :  "Aún no has buscado ningún artículo.\n Pruébelo ahora, ¡le ayudaremos!",
+    "we have found" : "Nosotras hemos encontrado",
+    "try again" : "¡Inténtalo de nuevo!",
+
+
+
+
+    "bookmarks" : "Marcadores",
+    "sign in first" : "Iniciar sesión primero",
+    "sign in to save your favourite articles here" : "Inicie sesión para guardar sus artículos favoritos aquí",
+    "save your favourite articles here" : "Guarde sus artículos favoritos aquí",
+
+
+
+
+    "check your internet connection!" : "¡Comprueba tu conexión a Internet!",
+    "something is wrong. please try again." : "Algo está mal. Inténtalo de nuevo.",
+    "error fb login" : "¡Error al iniciar sesión en Facebook! Por favor intente con google",
+
+
+    
+    "cancel" : "Cancelar",
+    "no sign in title" : "Inicie sesión primero para acceder a esta función",
+    "no sign in subtitle" : "Aún no has iniciado sesión. Por favor, inicia sesión para desbloquear esta característica",
+
+    
+    
+    "comments" : "Comentarios",
+    "write a comment" : "Escribir un comentario", 
+
+
+    
+    "no content" : "No se encontraron contenidos",
+    "flag this comment" : "Marcar este comentario",
+    "unflag this comment" : "Desmarcar este comentario",
+    "report" : "Reporte",
+    "delete" : "Eliminar",
+    "report-info" : "Su informe se ha enviado correctamente a los administradores.",
+    "report-info1" : "Gracias por tu informe. Responderemos dentro de las 24 horas.",
+    "report-guest" : "¡Es necesario registrarse!",
+    "report-guest1" : "Tienes que iniciar sesión para informar sobre cualquier comentario.",
+    "comment flagged" : "¡Este comentario ha sido marcado!",
+
+
+    "notifications" : "Notificaciones",
+    "notification details" : "Detalles de la notificación",
+    "custom notifications": "Notificaciones personalizadas",
+    "news notifications": "Notificaciones de noticias",
+    "no notification": "No se encontraron notificaciones",
+
+
+    
+    "general settings" : "Configuración general",
+    "dark mode" : "Modo oscuro",
+    "login" : "registrarse",
+    "get notifications" : "Recibir notificaciones",
+    "contact us" : "Contacta con nosotras",
+    "rate this app" : "Califica esta aplicación",
+    "licence" : "Licencia",
+    "privacy policy" : "Política de privacidad",
+    "about us" : "Sobre nosotros",
+    "logout" : "Cerrar sesión",
+    "edit profile" : "Editar perfil",
+    "update profile" : "Actualización del perfil",
+    "updated successfully" : "Actualizado con éxito",
+    "enter new name" : "Ingrese nuevo nombre",
+
+    "logout title" : "¿Realmente quieres cerrar la sesión de la aplicación?",
+    "yes" : "si",
+    "no" : "No",
+
+    "language" : "Idioma",
+    "select language" : "Seleccione el idioma",
+
+    "buy now" : "Compra esta aplicación",
+    "buy now subtitle" : "Compre el código fuente completo aquí"
+
+
+
+}
